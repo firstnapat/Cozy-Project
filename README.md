@@ -5,6 +5,6 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 The images and design spec you need to complete the project are listed below.
 Images:
-[1.Logo]([https://www.google.com](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png?_gl=1*9yrurq*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..)
+[1.Logo] (https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png?_gl=1*9yrurq*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..))
 
 
