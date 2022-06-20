@@ -14,4 +14,7 @@ Images:<br/>
 [7.Myrtle Ave](https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg?_gl=1*1f6ayqx*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..)<br/>
 [8.Spiced Rum](https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg?_gl=1*1f6ayqx*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..)<br/>
 
+Design Spec:
 
+Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*equchl*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..) to access the design spec.
+Good luck!
