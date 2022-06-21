@@ -2,18 +2,22 @@
 *{
     margin: 0;
     padding: 0;
-    /* background-color: black; */
     font-family: Helvetica;
     color: seashell;
   }
-  
+
+/* Set Body color */
+body {
+    background-color: black;
+  }
+
 /* Set logo Tea Cozy */
 header .logo {
     height: 50px;
     width: auto;
     margin-left: 10px;
 }
-
+/* Set Navbar */
 .menu {
     padding-right: 10px;
 }
@@ -27,7 +31,7 @@ header .logo {
     list-style: none; 
     padding: 0px 10px;  
 }
-
+/* Set Header */
 header {
     width:100%;
     height: 69px;
@@ -38,22 +42,18 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-
-/* Section */
-/* section .banner {
-    
-} */
-
+/* Set Banner */
 .banner .background {
     width: 1200px;
     height: 700px;
-    
+    z-index: -1;
 }
 
 .banner-text {
     background-color: black;
     color: seashell;
     position: absolute;
+    z-index: -1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -66,4 +66,137 @@ section .banner {
     justify-content: center;
     padding-top: 69px;
     text-align: center;
+}
+/* Set tea of month section */
+.teaofmonth {
+    background-color: black;
+    width: 1000px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 69px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Set tea card */
+.tea1,
+.tea2,
+.tea3,
+.tea4,
+.tea5 {
+    width: 300px;
+    height: 200px;
+}
+
+.tea {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.tea p {
+    padding-top: 10px;
+}
+
+.tea-card4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 18%;
+    padding-top: 20px;
+}
+
+
+.tea-card5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 18%;
+    padding-top: 20px;
+}
+
+/* Set Locations */
+.locations {
+    margin-top: 69px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Set locations Background */
+.locations-bg {
+    width: 1200px;
+    height: 500px;
+    z-index: -1;
+}
+
+/* Set text locations */
+.locations h2 {
+    text-align: center;
+    position: absolute;
+    z-index: -1;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+/* Set locations card */
+.locations-card {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    z-index: -1;
+    margin-top: 100px;    
+}    
+
+.locations-card1 {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    opacity: 0.7;
+    margin-right: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.locations-card2 {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    opacity: 0.7;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.locations-card3 {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    opacity: 0.7;
+    margin-left: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* Set Footer of website */
+footer {
+    width: 100%;
+    height: 200px;
+    padding-top: 20px;   
+}
+footer .text-footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer .copyright {
+    padding-left: 20px;
+    padding-top: 40px;
 }
