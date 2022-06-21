@@ -18,3 +18,5 @@ Design Spec:
 
 Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*equchl*_ga*MTk0MDA0NzQ1LjE2Mzc1MTkxMzc.*_ga_3LRZM6TM9L*MTY1NTcxNzkzNS43LjEuMTY1NTcxODA0Ny41Mw..) to access the design spec.
 Good luck!
+
+Created by Napatsakorn Pianchana :octocat:
